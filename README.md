@@ -1,4 +1,4 @@
 freezing-batman
 ===============
 
-A Simple Javascript Rotating Banner
+A Simple Javascript Rotating Banner. Maybe.
